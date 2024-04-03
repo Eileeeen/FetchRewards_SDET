@@ -5,7 +5,7 @@
 **Tested Website:** [http://sdetchallenge.fetchrewards.com/](http://sdetchallenge.fetchrewards.com/)
 
 ## Prerequisites
-- Python 3
+- Python3
 - ChromeDriver
 - Selenium
 
@@ -14,7 +14,7 @@ To run this project, you must have Python3, ChromeDriver, and Selenium installed
 
 1. Install Python3 from [Python's official website](https://www.python.org/downloads/).
 2. Download ChromeDriver matching your Chrome version from [ChromeDriver's download page](https://sites.google.com/chromium.org/driver/). 
-3. Install Selenium by running `pip install selenium` in your command line or terminal. Alternatively you can install requirements by running: pip install requirements.txt
+3. Install Selenium by running `pip3 install selenium` in your command line or terminal. Alternatively you can install requirements by running: `pip3 install requirements.txt`
 
 ## Usage
 To use this project:
